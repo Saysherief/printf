@@ -8,6 +8,7 @@
 #include <stddef.h>
 
 int print_string(char *str);
+int print_int(int n);
 int _printf(const char *format, ...);
 
 #endif /* MAIN_H */
